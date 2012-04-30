@@ -1,0 +1,3 @@
+My thought process is listed in the doc file. Apologies if it's a bit wordy, but it also contains a visual table/map so you can see how exactly my loops are suppose to work. Summary of the doc file: I came up with one method to do this, but then realized a more effective method, and then also a problem with permutations.
+
+Either way, as you can see, my LicenseGen.java program works as intended, and any problems or comments I have regarding this prompt are in the .doc
