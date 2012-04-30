@@ -1,0 +1,23 @@
+"How many ping pong balls would it take to fill an average-sized school bus? Describe each step in your thought process. "
+----------------------------------------------------
+
+The very first thing that my mind focuses on is the two items in this problem. 
+
+First, there is the ping pong ball. A simple spherical object commonly seen in games of both table tennis and beer pong. While it is possible to find ping pong balls of varying qualities, we are lucky enough to have an 'official' ping pong ball with very specific dimensions. Knowing that the average ping pong ball should be 40 millimeters in diameter makes solving this problem a little bit easier.
+
+Second, we have the "average-sized" school bus. Unfortunately, this parameter is a little more vague. Are we speaking of an "average" school bus in the United States? What manufacturer made it? How many seats are in this "average-size" school bus? The point is, we do not have any specific numbers to use for the school bus. However, if this was a real practical problem that needed solving, then chances are we would be able to have a school bus to use and measure (or at least have dimensions supplied to us).
+
+Now, in the scenario that we are given some dimensions of a school bus to work with, we would have to first take volumes of both the ping pong ball and the school bus. The first thing a mind might think is "We'll just divide the school bus volume by the ping pong volume to get the max number of ping pong balls that'll fit!" Unfortunately, school buses are NOT empty rectangular prisms. There are factors to account for, such as the volume of the passenger seats, the driver seat, overhead storage, underbelly storage, the bumps in the floor where the school bus tires share space and any other possible thing that either takes up space OR adds space. Since there are so many factors, for a more accurate measurement, one would have to take all of those into account when calculating the volume of the bus.
+
+So basically, the thought process comes down to this:
+
+A. Volume of the Bus.
+B. things in the bus like seats and etc.
+C. Volume of the Ping Pong Ball.
+
+
+(A-B)/C = approximate number of ping pong balls that would fit in the "average sized" school bus.
+
+
+
+NOTE: The number result you get is very approximate. The exact number you get from dividing like that assumes that you can somehow occupy all the space between ping pong balls, but you cannot. Therefore the number of ping pong balls that you can stuff into the bus will probably be a little bit less than the number result you get.
